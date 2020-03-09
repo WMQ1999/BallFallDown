@@ -9,7 +9,7 @@ Some pictures:
 
 ![image](https://github.com/WMQ1999/BallFallDown/blob/master/pics/image-20200308203258902.png)
 
-![image-20200308203628454](https://github.com/WMQ1999/BallFallDown/blob/master/pics/image-20200308203331137.png)
+![image-20200308203628454](https://github.com/WMQ1999/BallFallDown/blob/master/pics/image-20200308203629544.png)
 
 ![image-20200308203649458](https://github.com/WMQ1999/BallFallDown/blob/master/pics/image-20200308203649458.png)
 
